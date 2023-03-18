@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khaled Salhab (@ksalhab89)
-- 👀 I’m interested in Backend Dev
+- 👀 I’m interested in Backend Dev & DevOps
 - 🌱 I’m currently learning Spring framework
 - 💞️ I’m looking to collaborate on learning projects to further help me in my career.
 - 📫 How to reach me ...
