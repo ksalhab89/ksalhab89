@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-Building production-grade cloud infrastructure with focus on automation, reliability, and observability.  
+Building production-grade cloud infrastructure with a focus on automation, reliability, and observability.  
 Specializing in **Kubernetes orchestration**, **GitOps workflows**, and **Infrastructure as Code**.
 
 - 🔭 Currently working on: **Expanding my DevOps portfolio with real-world scenarios**
@@ -104,8 +104,8 @@ Specializing in **Kubernetes orchestration**, **GitOps workflows**, and **Infras
 
 ## 🎓 Continuous Learning
 
-- 🎯 **DevOps Bootcamp** - Develeap (2025)
-- 📚 **Currently Studying:** AWS Solutions Architect Associate certification
+- 🎯 **DevOps Bootcamp Graduate** - Develeap 
+- 📚 **Currently Pursuing:** AWS Solutions Architect Associate (SAA-C03)
 - 📖 **Planned:** Certified Kubernetes Administrator (CKA)
 - 🔍 **Exploring:** AWS Well-Architected Framework and Terraform best practices
 
@@ -140,7 +140,7 @@ I'm always open to discussing DevOps practices, cloud architecture, or collabora
 ## 📈 GitHub Stats
 
 <details>
-<summary>📊 Click to expand stats</summary>
+<summary>📊 View GitHub Activity & Stats</summary>
 
 <div align="center">
 
