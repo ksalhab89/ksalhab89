@@ -30,7 +30,7 @@ Specializing in **Kubernetes orchestration**, **GitOps workflows**, and **Infras
 - 🔭 Currently working on: **Expanding my DevOps portfolio with real-world scenarios**
 - 🌱 Currently studying: **AWS Solutions Architect Associate (SAA-C03)**
 - 💡 Interested in: **Platform Engineering, GitOps practices, Cloud automation**
-- 📫 Reach me: **ksalhab@gmail.com**
+- 📫 Reach me: **ksalhab89@hotmail.com**
 
 ---
 
