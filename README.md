@@ -119,7 +119,7 @@ I'm always open to discussing DevOps practices, cloud architecture, or collabora
 
 | Platform | Link |
 |----------|------|
-| 📧 Email | ksalhab89@gmail.com |
+| 📧 Email | ksalhab89@hotmail.com |
 | 💼 LinkedIn | [linkedin.com/in/khaled-salhab](https://linkedin.com/in/khaled-salhab) |
 | 🐙 GitHub | [@ksalhab89](https://github.com/ksalhab89) |
 
